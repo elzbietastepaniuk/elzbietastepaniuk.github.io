@@ -1,0 +1,29 @@
+{
+  "name": "elzbietastepaniuk.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elzbietastepaniuk/elzbietastepaniuk.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elzbietastepaniuk/elzbietastepaniuk.github.io/issues"
+  },
+  "homepage": "https://github.com/elzbietastepaniuk/elzbietastepaniuk.github.io#readme",
+  "dependencies": {
+    "D": "^1.0.0",
+    "jquery": "^3.2.1",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
